@@ -11,4 +11,3 @@ main()
 	printf("The size of long double is: %d.\n", sizeof(long double));
 	return 0;
 }
-
